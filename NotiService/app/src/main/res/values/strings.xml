@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NotiService</string>
+    <string name="button_text_start">Start Service</string>
+    <string name="button_text_stop">Stop Service</string>
+</resources>
